@@ -1,8 +1,6 @@
 # YangDL Lab
 
-研究方向：
-            真核生物的DNA包裹在八个组蛋白组成的核小体中，组蛋白的变体，组蛋白的修饰和DNA甲基化这些表观遗传的标记对于基因转录调控起到非常重要的作用。近些年来在植物中越来越多的研究也揭示出表观遗传调控在植物的生长发育以及应对外界环境的过程中起到至关重要的作用。
-           本实验室以重要的农作物－水稻为主要研究对象，利用遗传学，分子生物学，分子细胞生物学和基因组学等方法对基因沉默，种子发育，逆境胁迫适应等过程的表观遗传学调控网络进行详细的研究。我们希望通过这些研究为提高水稻的产量和抗病抗逆能力做出贡献。
+Plant Disease Resistance and Epidemiology
 
 ## Current research projects
 
@@ -19,11 +17,11 @@
 
 ## Join us
 
-Welcome graduate or undergraduate students to contact Professor Liu:
+Welcome graduate or undergraduate students to contact Professor Yang:
 
-* email: <liuxs@shanghaitech.edu.cn>
+* email: <dlyang@njau.edu.cn>
 * Phone: 20684520  
-* Address: L building A406 of ShanghaiTech. University 
+* Address: Nanjing Agricultural University 
 
 
 ## Members
@@ -64,15 +62,31 @@ Lab alumni
 
 ## Publications
 
-1. Wang S, Jia M, He Z, Liu XS. APOBEC3B and APOBEC mutational signature as potential predictive markers for immunotherapy response in non-small cell lung cancer. Oncogene. 2018 Apr 26. doi: 10.1038/s41388-018-0245-9. 
+ 1. Xu J＃, Zhang L, Yang DL, Li Q, He Z. (2015).                              Thymidine kinases share a conserved function for nucleotide salvage and play an essential role in Arabidopsis thaliana
 
-1. Ming Chen, Jiangwen Zhang, Katia Sampieri, John G. Clohessy, Lourdes Mendez, Enrique Gonzalez-Billalabeitia, Xue-Song Liu, Yu-Ru Lee, Jacqueline Fung, Jesse M. Katon, Archita Venugopal Menon, Kaitlyn A. Webster, Christopher Ng, Maria Dilia Palumbieri , Moussa S. Diolombi, Susanne B. Breitkopf, Julie Teruya-Feldstein, Sabina Signoretti, Roderick T. Bronson, John M. Asara, Mireia Castillo-Martin, Carlos Cordon-Cardo, Pier Paolo Pandolfi. An aberrant SREBP-dependent lipogenic program promotes metastatic prostate cancer. Nature Genetics. 2018 Feb;50(2):206-218. doi: 10.1038/s41588-017-0027-2. 
+     growth and development. New Phytol. 2015 Jul 2. doi: 10.1111/nph.13530. [Epub ahead of print] (IF2014=7.672)
 
-1. Gerarduzzi C, de Polo A, Liu XS, El Kharbili M, Little JB, Yuan ZM. Human epidermal growth factor receptor 4 (Her4) Suppresses p53 Protein via Targeting the MDMX-MDM2 Protein Complex: IMPLICATION OF A NOVEL MDMX SER-314 PHOSPHOSITE. J Biol Chem. 2016 Dec 9;291(50):25937-25949. 
+2. Zou B＃, Yang DL＃, Shi Z＃, Dong H, Hua J*. (2014). 
 
-1. Liu XS, Liu Z, Gerarduzzi C, Choi DE, Ganapathy S, Pandolfi PP, Yuan ZM. Somatic human ZBTB7A zinc finger mutations promote cancer progression. Oncogene. 2015 Oct 12. doi: 10.1038/onc.2015.371.
+Monoubiquitination of Histone 2B at the disease resistance gene locus regulates its expression and impacts immune responses in Arabidopsis. Plant Physiol. 165(1):309-318. (IF2014= 6.841)
 
-1. Liu XS, Chandramouly G, Rass E, Guan Y, Wang G, Hobbs RM, Rajendran A, Xie A, Shah JV, Davis AJ, Scully R, Lunardi A, Pandolfi PP. LRF maintains genome integrity by regulating the non-homologous end joining pathway of DNA repair. Nature Communications. 2015 Oct 8; 6:8325. doi: 10.1038/ncomms9325. 
+3. Feng Z＃, Mao Y, Xu N, Zhang B, Wei P, Yang DL, Wang Z, Zhang Z, Zheng R, Yang L, Zeng L, Liu X, Zhu JK*. (2014). Multigeneration analysis reveals the inheritance, specificity, and patterns of CRISPR/Cas-induced gene modifications in Arabidopsis. Proc Natl Acad Sci U S A. 111(12):4632-4637. (IF2014=9.674)
+
+4. Sun L＃, Yang DL＃,Kong Y, Chen Y, Li XZ, Zeng LJ, Li Q, Wang ET, He ZH*. (2014). 
+
+Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 (GIF1) plays a role in pre-existing and induced defence in rice. Mol. Plant Pathol. 15(2):161-173. (IF2014=4.724)
+
+5. Feng Z＃, Zhang B＃, Ding W, Liu X, Yang DL, Wei P, Cao F, Zhu S, Zhang F, Mao Y, Zhu JK*. (2013). 
+
+Efficient genome editing in plants using a CRISPR/Cas system. Cell Res. 23(10):1229-1232. (IF2014= 12.413)
+
+6. Yang DL＃, Dong WX＃, Zhang YY, He ZH*. (2013). 
+
+Gibberellins modulate abiotic stress tolerance in plants. Scientia Sinica Vitae. 43(12): 1119-1126
+
+7. Yang DL＃, Yang Y, He Z*. (2013).
+
+ Roles of plant hormones and their interplay in rice immunity. Mol Plant. 6(3):675-685. (IF2014=6.337)
 
 **_Publications before joining Shanghaitech_**:  
 

@@ -10,11 +10,7 @@ title = "Dong-Lei Yang lab"
 math = true
 copyright = "&copy; YangDL Lab 2018 -- all rights reserved"
 enableRobotsTXT = true
-
-[blackfriday]
-    extensionsmask= ["noIntraEmphasis"]
-    fractions= false
-    hrefTargetBlank= true 
+    
 [taxonomies]
 category = "categories"
 tag = "tags"
@@ -29,6 +25,12 @@ tag = "tags"
 
   slogan = "Laboratory of Plant Disease Resistance and Epidemiology"
   slogan_text = "YangDL Lab, Nanjing Agricultural University"
+  
+  
+[blackfriday]
+    extensionsmask = ["noIntraEmphasis"]
+    fractions = false
+    hrefTargetBlank = true 
 
   [params.logo]
     image = "img/logo.png"

@@ -27,7 +27,7 @@ tag = "tags"
   slogan_text = "YangDL Lab, Nanjing Agricultural University"
 
   [params.logo]
-    image = "img/logo_red.svg"
+    image = "img/logo.png"
     link = "http://www.njau.edu.cn/"
 
 #  [[params.navbar_hierarchy]]

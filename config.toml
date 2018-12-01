@@ -28,7 +28,7 @@ tag = "tags"
 
   [params.logo]
     image = "img/logo.png"
-    <a href="http://www.njau.edu.cn/"  target="_blank">NAU</a>
+    url="http://www.njau.edu.cn/"
     
     #link = "http://www.njau.edu.cn/"
 

@@ -21,14 +21,14 @@ tag = "tags"
   author = "Dong-Lei Yang"
   email = "dlyang@njau.edu.cn"
   phone = "20684520"
-  address = "中国南京卫岗1号"
+  address = "No.1 Weigang, Nanjing, China"
 
   slogan = "Laboratory of Plant Disease Resistance and Epidemiology"
-  slogan_text = "LiuXS Lab, ShanghaiTech University"
+  slogan_text = "YangDL Lab, Nanjing Agricultural University"
 
   [params.logo]
     image = "img/logo_red.svg"
-    link = "http://www.shanghaitech.edu.cn/main.htm"
+    link = "http://www.njau.edu.cn/"
 
 #  [[params.navbar_hierarchy]]
 #    name = "LiuXS Lab"

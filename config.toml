@@ -145,4 +145,7 @@ tag = "tags"
       url = "#contact"
       weight = 7
       
-
+blackfriday:
+    extensionsmask: ["noIntraEmphasis"]
+    fractions: false
+    hrefTargetBlank: true 

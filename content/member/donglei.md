@@ -2,7 +2,7 @@
 bio = ""
 date = "2018-04-30"
 id = "a-donglei"
-interests = ["Cancer Biology", "Cancer Immunotherapy", "Genetic Engineered Mouse Models", "Chromatin Structure", "Driver Alteration"]
+interests = ["agriculture Biology",  "Genetic Engineered ", "Chromatin Structure", "Driver Alteration"]
 name = "Dong-Lei Yang"
 portrait = "/portraits/ydl.jpg"
 short_bio = "Professor of Nanjing Agricultural University"

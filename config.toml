@@ -27,14 +27,16 @@ tag = "tags"
   slogan_text = "YangDL Lab, Nanjing Agricultural University"
   
   
-[blackfriday]
-    extensionsmask = ["noIntraEmphasis"]
-    fractions = false
-    hrefTargetBlank = true 
+
 
   [params.logo]
     image = "img/logo.png"
     link = "http://www.njau.edu.cn/"
+    
+    [[blackfriday]]
+    extensionsmask = ["noIntraEmphasis"]
+    fractions = false
+    hrefTargetBlank = true 
     
     #link = "http://www.njau.edu.cn/"
 

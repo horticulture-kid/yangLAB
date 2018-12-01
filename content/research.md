@@ -1,6 +1,8 @@
-# LiuXS Lab
+# YangDL Lab
 
-Xue-Song Liu lab study the fundamental difference between cancer cell and normal somatic cell. With a purpose to identify cancer specific biomarkers and therapeutic targets. Multiple approaches, including cell biochemistry, bioinformatics and mouse modeling, are combined to investigate the basic mechanisms in cancer.
+研究方向：
+            真核生物的DNA包裹在八个组蛋白组成的核小体中，组蛋白的变体，组蛋白的修饰和DNA甲基化这些表观遗传的标记对于基因转录调控起到非常重要的作用。近些年来在植物中越来越多的研究也揭示出表观遗传调控在植物的生长发育以及应对外界环境的过程中起到至关重要的作用。
+           本实验室以重要的农作物－水稻为主要研究对象，利用遗传学，分子生物学，分子细胞生物学和基因组学等方法对基因沉默，种子发育，逆境胁迫适应等过程的表观遗传学调控网络进行详细的研究。我们希望通过这些研究为提高水稻的产量和抗病抗逆能力做出贡献。
 
 ## Current research projects
 

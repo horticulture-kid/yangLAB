@@ -32,7 +32,7 @@ sort_position = 1
     year = 2002
 
 [[organizations]]
-    name = "ShanghaiTech. University"
+    name = "Nanjing Agricultural University"
     role = "Assistant Professor & PI"
 
 +++

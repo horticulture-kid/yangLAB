@@ -3,12 +3,12 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "https://liuxslab.netlify.com/"
+baseurl = "https://yanglab.netlify.com/"
 canonifyurls = true
 theme = "hugo-academic-group"
-title = "Xue-Song Liu lab"
+title = "Dong-Lei Yang lab"
 math = true
-copyright = "&copy; LiuXS Lab 2018 -- all rights reserved"
+copyright = "&copy; YangDL Lab 2018 -- all rights reserved"
 enableRobotsTXT = true
 
 [taxonomies]
@@ -18,12 +18,12 @@ tag = "tags"
 
 [params]
   description = "Website of research group"
-  author = "Xue-Song Liu"
-  email = "liuxs@shanghaitech.edu.cn"
+  author = "Dong-Lei Yang"
+  email = "dlyang@njau.edu.cn"
   phone = "20684520"
-  address = "L building A406, ShanghaiTech. University, 393 Middle Huaxia Road, Pudong District, Shanghai"
+  address = "中国南京卫岗1号"
 
-  slogan = "Laboratory of Cancer Biology"
+  slogan = "Laboratory of Plant Disease Resistance and Epidemiology"
   slogan_text = "LiuXS Lab, ShanghaiTech University"
 
   [params.logo]

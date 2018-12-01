@@ -10,6 +10,7 @@ title = "Dong-Lei Yang lab"
 math = true
 copyright = "&copy; YangDL Lab 2018 -- all rights reserved"
 enableRobotsTXT = true
+[blackfriday] hrefTargetBlank = true
 
 [taxonomies]
 category = "categories"
@@ -28,7 +29,7 @@ tag = "tags"
 
   [params.logo]
     image = "img/logo.png"
-    url="http://www.njau.edu.cn/"
+    link = "http://www.njau.edu.cn/"
     
     #link = "http://www.njau.edu.cn/"
 

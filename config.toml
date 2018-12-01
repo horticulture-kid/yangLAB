@@ -33,11 +33,6 @@ tag = "tags"
     image = "img/logo.png"
     link = "http://www.njau.edu.cn/"
     
-    [[blackfriday]]
-    extensionsmask = ["noIntraEmphasis"]
-    fractions = false
-    hrefTargetBlank = true 
-    
     #link = "http://www.njau.edu.cn/"
 
 #  [[params.navbar_hierarchy]]

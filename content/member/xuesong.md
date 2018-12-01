@@ -1,19 +1,19 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "a-xuesong"
+id = "a-donglei"
 interests = ["Cancer Biology", "Cancer Immunotherapy", "Genetic Engineered Mouse Models", "Chromatin Structure", "Driver Alteration"]
-name = "Xue-Song Liu"
-portrait = "/portraits/xuesong.jpg"
-short_bio = "PI and Assistant Professor of ShanghaiTech. University"
+name = "Dong-Lei Yang"
+portrait = "/portraits/ydl.jpg"
+short_bio = "Professor of Nanjing Agricultural University"
 short_name = ""
-title = "Xue-Song Liu"
+title = "Dong-Lei Yang"
 sort_position = 1
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:liuxs@shanghaitech.edu.cn"
+    link = "mailto:dlyang@njau.edu.cn"
 
 
 [[education]]

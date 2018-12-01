@@ -10,7 +10,6 @@ title = "Dong-Lei Yang lab"
 math = true
 copyright = "&copy; YangDL Lab 2018 -- all rights reserved"
 enableRobotsTXT = true
-hrefTargetBlank: true
 
 [taxonomies]
 category = "categories"
@@ -29,7 +28,9 @@ tag = "tags"
 
   [params.logo]
     image = "img/logo.png"
-    link = "http://www.njau.edu.cn/"
+    <a    href="http://www.njau.edu.cn/"    onclick="window.open(this.href,    '_blank',
+    'scrollbars=0,resizable=0;width=300');return    false">ok</a>   
+    #link = "http://www.njau.edu.cn/"
 
 #  [[params.navbar_hierarchy]]
 #    name = "YangDL Lab"

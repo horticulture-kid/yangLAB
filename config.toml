@@ -12,6 +12,8 @@ copyright = "&copy; YangDL Lab 2018 -- all rights reserved"
 enableRobotsTXT = true
 
 [blackfriday]
+   extensionsmask = ["noIntraEmphasis"]
+   fractions = false
    plainIDAnchors = true
    hrefTargetBlank = true
 [taxonomies]

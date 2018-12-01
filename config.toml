@@ -12,10 +12,9 @@ copyright = "&copy; YangDL Lab 2018 -- all rights reserved"
 enableRobotsTXT = true
 
 [blackfriday]
-   extensionsmask = ["noIntraEmphasis"]
-   fractions = false
-   plainIDAnchors = true
-   hrefTargetBlank = true
+    extensionsmask= ["noIntraEmphasis"]
+    fractions= false
+    hrefTargetBlank= true 
 [taxonomies]
 category = "categories"
 tag = "tags"

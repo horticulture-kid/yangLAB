@@ -40,7 +40,7 @@ sort_position = 1
 
 ## Publications
 
-1. Xu J££, Zhang L, Yang DL, Li Q, He Z. (2015).Thymidine kinases share a conserved function for nucleotide salvage and play an essential role in Arabidopsis thaliana  growth and development. New Phytol. 2015 Jul 2. doi: 10.1111/nph.13530. [Epub ahead of print] (IF2014=7.672)
+1. Xu J££, Zhang L, Yang DL, Li Q, He Z. (2015).Thymidine kinases share a conserved function for nucleotide salvage and play an essential role in Arabidopsis thaliana  growth and development. New Phytol. 2015 Jul 2. doi: 10.1111/nph.13530.(IF2014=7.672)
 
 1. Zou B££, Yang DL££, Shi Z££, Dong H, Hua J*. (2014). Monoubiquitination of Histone 2B at the disease resistance gene locus regulates its expression and impacts immune responses in Arabidopsis. Plant Physiol. 165(1):309-318. (IF2014= 6.841)
 

@@ -10,6 +10,7 @@ title = "Dong-Lei Yang lab"
 math = true
 copyright = "&copy; YangDL Lab 2018 -- all rights reserved"
 enableRobotsTXT = true
+hrefTargetBlank: true
 
 [taxonomies]
 category = "categories"

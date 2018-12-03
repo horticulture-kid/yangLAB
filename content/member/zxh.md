@@ -1,13 +1,13 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "u-di cuiru"
-name = "Di cuiru"
-portrait = "/portraits/dcr.jpg"
+id = "u-xiaohan"
+name = "xiaohan zhang"
+portrait = "/portraits/zxh.jpg"
 short_bio = "Undergraduate Student"
-short_name = "di cuiru"
-title = "dicuiru"
-sort_position = 7
+short_name = "xiaohan"
+title = "xiaohan"
+sort_position = 6
 
 [[social]]
     icon = "envelope"

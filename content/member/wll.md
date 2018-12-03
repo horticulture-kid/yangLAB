@@ -1,12 +1,12 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "u-wangzhen"
-name = "wang zhen"
-portrait = "/portraits/wz.jpg"
-short_bio = "Undergraduate Student"
-short_name = "wz"
-title = "wang zhen"
+id = "p-lili"
+name = "Lili wang"
+portrait = "/portraits/wll.jpg"
+short_bio = "Postdoc"
+short_name = "wll"
+title = "lili wang"
 sort_position = 3
 
 [[social]]
@@ -16,6 +16,6 @@ sort_position = 3
 
 [[organizations]]
     name = "Nanjing Agricultural University"
-    role = "Undergraduate Student"
+    role = "Postdoc"
 
 +++

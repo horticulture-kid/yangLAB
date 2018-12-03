@@ -1,13 +1,13 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "u-zhaoyang"
-name = "Zhaoyang Jiang"
-portrait = "/portraits/zhaoyang.jpg"
+id = "u-wangzhen"
+name = "wang zhen"
+portrait = "/portraits/wz.jpg"
 short_bio = "Undergraduate Student"
-short_name = "zhaoyang"
-title = "Zhaoyang"
-sort_position = 10
+short_name = "wz"
+title = "wang zhen"
+sort_position = 7
 
 [[social]]
     icon = "envelope"
@@ -15,7 +15,7 @@ sort_position = 10
     link = "mailto:test@example.org"
 
 [[organizations]]
-    name = "ShanghaiTech. University"
+    name = "Nanjing Agricultural University"
     role = "Undergraduate Student"
 
 +++

@@ -1,0 +1,24 @@
++++
+bio = ""
+date = "2018-04-30"
+id = "s-dachao"
+name = "da chao"
+interests = [" Genomics", "CRISPER", "methlythion"]
+portrait = "/portraits/xdc.jpg"
+short_bio = "Graduate Student"
+short_name = "xu dachao"
+title = "da chao"
+sort_position = 5
+
+[[social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:zhangjing1@shanghaitech.edu.cn"
+
+[[organizations]]
+    name = "Nanjing Agricultural University"
+    role = "Graduate Student"
+
++++
+
+Hi, I am a graduate student of Nanjing Agricultural University at Yang dl Lab. I am interested in finding functional noncoding somatic mutations in genome by using informatics and experiment.

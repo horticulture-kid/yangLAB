@@ -5,7 +5,7 @@ id = "s-kezhi"
 name = "Kezhi Zheng"
 interests = ["CRISPR" ,"Chromatin Structure", "Genetic Engineered"]
 portrait = "/portraits/zkz.jpg"
-short_bio = "Graduate Student"
+short_bio = "PhD Student"
 short_name = "kezhi"
 title = "kezhi zheng"
 sort_position = 4
@@ -17,7 +17,7 @@ sort_position = 4
 
 [[organizations]]
     name = "Nanjing Agricultural University"
-    role = "Graduate Student"
+    role = "PhD Student"
 
 [[education]]
     course = "Biotechnology"

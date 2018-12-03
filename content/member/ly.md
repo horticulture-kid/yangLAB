@@ -4,7 +4,7 @@ date = "2018-04-30"
 id = "u-liyun"
 name = "li yun"
 portrait = "/portraits/ly.jpg"
-short_bio = "Undergraduate Student"
+short_bio = "graduate Student"
 short_name = "liyun"
 title = "li yun"
 sort_position = 9
@@ -16,6 +16,6 @@ sort_position = 9
 
 [[organizations]]
     name = "Nanjing Agricultural University"
-    role = "Undergraduate Student"
+    role = "graduate Student"
 
 +++

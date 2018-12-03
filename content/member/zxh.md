@@ -4,7 +4,7 @@ date = "2018-04-30"
 id = "u-xiaohan"
 name = "xiaohan zhang"
 portrait = "/portraits/zxh.jpg"
-short_bio = "Undergraduate Student"
+short_bio = "PhD Student"
 short_name = "xiaohan"
 title = "xiaohan"
 sort_position = 6
@@ -16,6 +16,6 @@ sort_position = 6
 
 [[organizations]]
     name = "Nanjing Agricultural University"
-    role = "Undergraduate Student"
+    role = "PhD Student"
 
 +++

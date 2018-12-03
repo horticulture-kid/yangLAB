@@ -5,7 +5,7 @@ id = "s-dachao"
 name = "da chao"
 interests = [" Genomics", "CRISPER", "methlythion"]
 portrait = "/portraits/xdc.jpg"
-short_bio = "Graduate Student"
+short_bio = "PhD Student"
 short_name = "xu dachao"
 title = "da chao"
 sort_position = 5
@@ -17,7 +17,7 @@ sort_position = 5
 
 [[organizations]]
     name = "Nanjing Agricultural University"
-    role = "Graduate Student"
+    role = "PhD Student"
 
 +++
 

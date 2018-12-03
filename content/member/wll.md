@@ -4,7 +4,7 @@ date = "2018-04-30"
 id = "p-lili"
 name = "Lili wang"
 portrait = "/portraits/wll.jpg"
-short_bio = "Postdoc"
+short_bio = "PhD student"
 short_name = "wll"
 title = "lili wang"
 sort_position = 3
@@ -16,6 +16,6 @@ sort_position = 3
 
 [[organizations]]
     name = "Nanjing Agricultural University"
-    role = "Postdoc"
+    role = "PhD"
 
 +++

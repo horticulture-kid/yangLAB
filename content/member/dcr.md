@@ -5,7 +5,7 @@ id = "u-di cuiru"
 name = "Di cuiru"
 portrait = "/portraits/dcr.jpg"
 short_bio = "Undergraduate Student"
-short_name = "di cuiru"
+short_name = "Di cuiru"
 title = "dicuiru"
 sort_position = 8
 

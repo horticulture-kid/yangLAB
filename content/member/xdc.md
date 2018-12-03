@@ -7,7 +7,7 @@ interests = [" Genomics", "CRISPER", "methlythion"]
 portrait = "/portraits/xdc.jpg"
 short_bio = "PhD Student"
 short_name = "xu dachao"
-title = "da chao"
+title = "Xu da chao"
 sort_position = 5
 
 [[social]]

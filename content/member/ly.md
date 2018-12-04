@@ -2,7 +2,7 @@
 bio = ""
 date = "2018-04-30"
 id = "u-liyun"
-name = "li yun"
+name = "Li Yun"
 portrait = "/portraits/ly.jpg"
 short_bio = "graduate Student"
 short_name = "liyun"

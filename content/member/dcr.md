@@ -2,7 +2,7 @@
 bio = ""
 date = "2018-04-30"
 id = "u-di cuiru"
-name = "Di cuiru"
+name = "Cuiru Di"
 portrait = "/portraits/dcr.jpg"
 short_bio = "Undergraduate Student"
 short_name = "Di cuiru"

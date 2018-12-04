@@ -2,7 +2,7 @@
 bio = ""
 date = "2018-04-30"
 id = "s-dachao"
-name = "da chao"
+name = "Dachao Xu"
 interests = [" Genomics", "CRISPER", "methlythion"]
 portrait = "/portraits/xdc.jpg"
 short_bio = "PhD Student"

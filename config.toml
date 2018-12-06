@@ -81,6 +81,12 @@ tag = "tags"
 
   # Posts section.
   # Section will only be displayed if there are posts in `content/post/`.
+  [params.posts]
+    count = 2
+    title = "Blog"
+    subtitle = ""
+    str_all = "More Posts"
+    str_read_more = "Read more"
 
   # Projects section.
   # Section will only be displayed if there are projects in `content/project/`.

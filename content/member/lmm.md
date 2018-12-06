@@ -7,7 +7,7 @@ portrait = "/portraits/lmm.jpg"
 short_bio = "PhD student"
 short_name = "mingming"
 title = "mingming Liu"
-sort_position = 2
+sort_position = 1
 
 [[social]]
     icon = "envelope"

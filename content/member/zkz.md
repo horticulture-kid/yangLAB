@@ -8,7 +8,7 @@ portrait = "/portraits/zkz.jpg"
 short_bio = "PhD Student"
 short_name = "kezhi"
 title = "kezhi zheng"
-sort_position = 4
+sort_position = 3
 
 [[social]]
     icon = "envelope"

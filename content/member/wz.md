@@ -48,7 +48,7 @@ sort_position = 6
 
 +++
 
-Hi, I am a postgraduate student of Nanjing Agriculture University at the DL Yang Lab. My research interests includeRice disease resistance and development, bioinformatics.
+Hi, I am a postgraduate student of Nanjing Agriculture University at the DL Yang Lab. My research interests include Rice disease resistance and development, bioinformatics.
 
 I am learning more about disease resistance researches, programming (R & perl & Linux Shell) and statistics due to my limited skill levels.
 

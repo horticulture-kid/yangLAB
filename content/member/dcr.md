@@ -7,7 +7,7 @@ portrait = "/portraits/dcr.jpg"
 short_bio = "Undergraduate Student"
 short_name = "Di cuiru"
 title = "dicuiru"
-sort_position = 8
+sort_position = 7
 
 [[social]]
     icon = "envelope"
@@ -16,6 +16,6 @@ sort_position = 8
 
 [[organizations]]
     name = "Nanjing Agricultural University"
-    role = "Undergraduate Student"
+    role = "Postgraduate Student"
 
 +++

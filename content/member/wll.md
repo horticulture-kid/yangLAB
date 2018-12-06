@@ -7,7 +7,7 @@ portrait = "/portraits/wll.jpg"
 short_bio = "PhD student"
 short_name = "wll"
 title = "lili wang"
-sort_position = 3
+sort_position = 2
 
 [[social]]
     icon = "envelope"

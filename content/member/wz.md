@@ -28,10 +28,10 @@ sort_position = 6
 [[education]]
     course = "Protected horticultural"
     institution = 'Henan Agriculture University '
-    year = 2011-2015
+    year = "2011-2015"
     course = "Vegetable Genetics and breeding"
     institution = 'Nanjing Agriculture University'
-    year = 2015-
+    year = "2015-"
 
 [[organizations]]
     name = "Nanjing Agriculture University"

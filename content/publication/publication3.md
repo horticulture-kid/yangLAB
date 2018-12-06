@@ -1,14 +1,14 @@
 +++
 abstract = ""
 abstract_short = ""
-date = "2016-12-01"
+date = "2018-12-01"
 image = ""
 image_preview = ""
 math = false
-publication = "J Biol Chem. 2016 Dec 9;291(50):25937-25949"
+publication = "Int J Mol Sci. 2018 Jun 15;19(6). pii: E1774. doi: 10.3390/ijms19061774."
 publication_short = ""
 selected = true
-title = "Human epidermal growth factor receptor 4 (Her4) Suppresses p53 Protein via Targeting the MDMX-MDM2 Protein Complex: IMPLICATION OF A NOVEL MDMX SER-314 PHOSPHOSITE"
+title = "Plasma Membrane-Localized Calcium Pumps and Copines Coordinately Regulate Pollen Germination and Fertility in Arabidopsis"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
@@ -17,22 +17,12 @@ url_slides = ""
 url_video = ""
 
 [[authors]]
-    name = "Gerarduzzi C"
+    name = "li yun"
     is_member = false
 [[authors]]
-    name = "de Polo A"
+    name = "yzy"
     is_member = false
 [[authors]]
-    name = "Liu XS"
-    is_member = true
-    link = "/xuesong"
-[[authors]]
-    name = "EL Kharbili M"
-    is_member = false
-[[authors]]
-    name = "Little JB"
-    is_member = false
-[[authors]]
-    name = "Yuan ZM"
+    name = "yang dl"
     is_member = false
 +++

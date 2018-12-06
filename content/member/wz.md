@@ -8,7 +8,7 @@ portrait = "/portraits/wz.jpg"
 short_bio = "Be be or not be be, it's also a question"
 short_name = "WZ"
 title = "Wang Zhen"
-sort_position = 9
+sort_position = 6
 
 [[social]]
     icon = "envelope"

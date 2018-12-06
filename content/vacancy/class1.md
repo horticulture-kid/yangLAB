@@ -1,5 +1,7 @@
 +++
-little.
+description = "<**crop Biology**> For Undergraduate students. Textbook: The Biology of crop, 2nd Edition, by v.  "
+external_link = "/"
+vacancy_id = ""
 +++
 
 # Class: *NULL*

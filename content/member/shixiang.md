@@ -1,14 +1,14 @@
 +++
 bio = ""
 date = "2018-04-30"
-id = "s-shixiang"
+id = "s-wangzhen"
 interests = ["Biomarker Discovery", "Bioinformatics", "plant hormone"]
 name = " Wang Zhen"
 portrait = "/portraits/wz.jpg"
 short_bio = "Be be or not be be, it's also a question"
 short_name = "WZ"
 title = "Wang Zhen"
-sort_position = 11
+sort_position = 9
 
 [[social]]
     icon = "envelope"

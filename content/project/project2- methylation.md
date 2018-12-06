@@ -13,12 +13,12 @@ participants_block_position = "down"
     id = "a-dl"
     position = 1
 [[participants]]
-    name = "DC Xu"
+    name = "Dachao Xu"
     is_member = true
     id = "s-dc"
     position = 3
 [[participants]]
-    name = "lili wang"
+    name = "Lili Wang"
     is_member = true
     id = "s-lili"
     position = 2

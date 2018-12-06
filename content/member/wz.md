@@ -30,10 +30,16 @@ sort_position = 6
     institution = 'Henan Agriculture University '
     year = "2011-2015"
     
-[[education]]  
+[[education]]
     course = "horticultural"
     institution = 'Nanjing Agriculture University '
-    year = "2015-"
+    year = "2015-2017"
+    
+[[education]]
+    course = "Crop Genetics and breeding"
+    institution = 'Nanjing Agriculture University '
+    year = "2017-"
+
 
 
 [[organizations]]

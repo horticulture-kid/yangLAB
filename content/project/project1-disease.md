@@ -1,42 +1,38 @@
 +++
 date = "2018-12-01"
-description = "OsNPR1  regulates SA and plant resistance in rice"
+description = "Opposite Roles of Salicylic Acid Receptors NPR1 and NPR3/NPR4 in Transcriptional Regulation of Plant Immunity"
 external_link = ""
 picture = "projects/project1.jpg"
 project_id = "project1"
 short_description = ""
-title = "Functional Study of OsNPR1"
+title = "Functional Study "
 participants_block_position = "down"
-[[participants]]
-    name = "DL Yang"
-    is_member = true
-    id = "a-donglei"
-    position = 1
+
 [[participants]]
     name = "Mingming Liu"
     is_member = true
     id = "s-mingming"
-    position = 2
+    position = 1
 [[participants]]
     name = "Xiaohan Zhang"
     is_member = true
     id = "s-xiaohan"
-    position = 4
+    position = 2
 [[participants]]
     name = "wang zhen"
     is_member = true
     id = "m-wangzhen"
-    position = 5
+    position = 3
 [[participants]]
     name = "mingxuan Wang"
     is_member = true
     id = "p-mingxuan"
-    position = 3
+    position = 4
 [[participants]]
     name = "Kang Wang"
     is_member = true
     id = "s-wangkang"
-    position = 6
+    position = 5
 +++
 
 

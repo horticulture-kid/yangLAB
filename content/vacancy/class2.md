@@ -1,18 +1,18 @@
 +++
-description = "<**Introduction to Medicine**> for undergraduate students, including the following chapters: Infectious Disease; Metabolic Disease; Cancer; Ageing; Biostatistics. "
-external_link = "http://slst.shanghaitech.edu.cn/2017/0704/c305a2228/page.htm"
+description = "<**Introduction to genomic**> for undergraduate students, including the following chapters:  Biostatistics. "
+external_link = "/"
 vacancy_id = ""
 +++
 
-# Class: *Introduction to Medicine*
+# Class: *Introduction to GENOMIC*
 
 Objects: Undergraduate students
 
-Teaching content includes the following chapters: Infectious Disease; Metabolic Disease; Cancer; Ageing; Biostatistics. 
+Teaching content includes the following chapters: Infectious Disease;  Disease;ga,rice, Biostatistics. 
 
-Welcome graduate or undergraduate students to contact Professor Liu:
+Welcome graduate or undergraduate students to contact Professor Yang:
 
-* email: <liuxs@shanghaitech.edu.cn> 
-* Phone: 20684520.  
-* Address: L building A406. 
+* email: <yang@njau.edu.cn> 
+* Phone: 206845.  
+* Address: NJAU. 
 

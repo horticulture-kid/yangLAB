@@ -10,14 +10,14 @@ title = "Welcome to yang Lab"
 
 Welcome! This is home page of yang lab, NJAU. 
 
-Most information about our lab can be found [here](https://liuxslab.netlify.com/research/), if you find anything you are interested in, please feel free to contact us.
+Most information about our lab can be found [here](http://nx.njau.edu.cn/info/1055/2633.htm), if you find anything you are interested in, please feel free to contact us.
 
-BTW, welcome graduate or undergraduate students to contact Professor Liu:
+BTW, welcome graduate or undergraduate students to contact Professor Yang:
 
-* email: <liuxs@shanghaitech.edu.cn>
-* Phone: 20684520  
-* Address: L building A406 of ShanghaiTech. University 
+* email: <updating soon.edu.cn>
+* Phone: 123456
+* Address: NJAU
 
 Happy May Day,
 
-*Shixiang*
+*wangzhen*

@@ -5,7 +5,7 @@ external_link = ""
 picture = "projects/project1.jpg"
 project_id = "project1"
 short_description = ""
-title = "Functional Study "
+title = "Opposite Roles of Salicylic Acid Receptors NPR1 and NPR3/NPR4 in Transcriptional Regulation of Plant Immunity "
 participants_block_position = "down"
 
 [[participants]]

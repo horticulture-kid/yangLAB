@@ -15,12 +15,12 @@ participants_block_position = "down"
 [[participants]]
     name = "Dachao Xu"
     is_member = true
-    id = "s-dc"
+    id = "s-dachao"
     position = 3
 [[participants]]
     name = "Lili Wang"
     is_member = true
-    id = "s-lili"
+    id = "p-lili"
     position = 2
 [[participants]]
     name = "kezhi Zhen"
@@ -33,6 +33,8 @@ Systematic study to identify DNA methylation.
 
 ![](/img/projects/project2.jpg)
 
-See recent publication from our lab: [**Dong-Lei Yang ....Jian-Kang Zhu. Four putative SWI2/SNF2 chromatin remodelers have dual roles in regulating DNA methylation in Arabidopsis.**](https://www.nature.com/articles/s41421-018-0056-8)
+See recent publication from our lab:
+
+[**Dong-Lei Yang ....Jian-Kang Zhu. Four putative SWI2/SNF2 chromatin remodelers have dual roles in regulating DNA methylation in Arabidopsis.**](https://www.nature.com/articles/s41421-018-0056-8)
 
 [**Download PDF**](https://www.nature.com/articles/s41421-018-0056-8.pdf)

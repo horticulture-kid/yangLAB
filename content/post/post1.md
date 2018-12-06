@@ -1,14 +1,14 @@
 +++
-date = "2018-05-01"
+date = "2018-12-01"
 short_text = ""
-title = "Welcome to LiuXS Lab"
+title = "Welcome to yang Lab"
 [[authors]]
-    name = "Shixiang Wang"
+    name = " Wang"
     is_member = true
-    link = "/shixiang"
+    link = "/"
 +++
 
-Welcome! This is home page of Xue-Song Liu lab, ShanghaiTech. University. 
+Welcome! This is home page of yang lab, NJAU. 
 
 Most information about our lab can be found [here](https://liuxslab.netlify.com/research/), if you find anything you are interested in, please feel free to contact us.
 

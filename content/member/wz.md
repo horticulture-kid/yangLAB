@@ -29,6 +29,10 @@ sort_position = 6
     course = "Protected horticultural"
     institution = 'Henan Agriculture University '
     year = "2011-2015"
+    
+    course = "horticultural"
+    institution = 'Nanjing Agriculture University '
+    year = "2015-"
 
 
 [[organizations]]

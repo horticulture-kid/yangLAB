@@ -50,7 +50,7 @@ tag = "tags"
   
   [[params.slogan_columns]]
     title = ""
-    text =  "YangDL lab Here we report that NPR3/NPR4 serve as transcriptional corepressorsfor SA-responsive genes. Multiple lines of evidence suggest that NPR4 and NPR1 function separately to regulateSA-induced immune responses. By inhibiting the transcriptional repression activity of NPR4 and promoting the transcriptionalactivation activity of NPR1, SA activates the expression of key immune regulators. A gain-of-function npr4-4D mutant that is unable to bind SA constitutively represses SA-induced immune responses, whereas the equivalent mutation in NPR1 abolishes its SA-binding activity and its ability to promote SA-induced defense gene expression, indicating that NPR1 and NPR3/NPR4 are all bona fide SA receptors despite their opposite roles in transcriptional regulation of SA-induced defense gene expression. "
+    text =  "YangDL lab Here we report that NPR3/NPR4 serve as transcriptional corepressorsfor SA-responsive genes. Multiple lines of evidence suggest that NPR4 and NPR1 function separately to regulateSA-induced immune responses. By inhibiting the transcriptional repression activity of NPR4 and promoting the transcriptionalactivation activity of NPR1, SA activates the expression of key immune regulators.  "
     link = "/research"
     link_text = "Read more"
     weight = 2

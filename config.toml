@@ -3,7 +3,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "https://yanglab.netlify.com/"
+baseurl = "http://www.laboy.cn/"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Dong-Lei Yang lab"

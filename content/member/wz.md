@@ -23,7 +23,7 @@ sort_position = 6
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/wz"
+    link = "/"
 
 [[education]]
     course = "Protected horticultural"
@@ -48,9 +48,9 @@ sort_position = 6
 
 +++
 
-Hi, I am a postgraduate student of Nanjing Agriculture University at the DL Yang Lab. My research interests include Rice disease resistance and development, bioinformatics.
+Hi, I am a postgraduate student of Nanjing Agriculture University at the DL Yang Lab. My research interests include Rice disease resistance and development, cross-talk between BR and GA,bioinformatics.
 
-I am learning more about disease resistance researches, programming (R & perl & Linux Shell) and statistics due to my limited skill levels.
+I am learning more about disease resistance researches,BR and GA,programming and statistics due to my limited skill levels.
 
 ## Publications
 

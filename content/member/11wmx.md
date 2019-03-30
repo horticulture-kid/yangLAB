@@ -8,7 +8,7 @@ portrait = "/portraits/wmx.jpg"
 short_bio = "Student"
 short_name = "mingxuan"
 title = "Mingxuan Wang"
-sort_position = 3
+sort_position = 11
 
 [[social]]
     icon = "envelope"

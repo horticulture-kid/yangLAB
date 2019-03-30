@@ -64,7 +64,7 @@ tag = "tags"
 
 
 
-  # Selected Publications section.
+# Selected Publications section.
   [params.publications_selected]
     detailed_list = true
     title = "Selected Publications"
@@ -73,7 +73,7 @@ tag = "tags"
   # Publications section.
   # Section will only be displayed if there are publications in `content/publication/`.
   [params.publications]
-    count = 3
+    count = 5
     detailed_list = false
     title = "Publications"
     subtitle = ""

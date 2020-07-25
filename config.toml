@@ -3,7 +3,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "/"
+baseurl = "https://yanglab.netlify.app/"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Dong-Lei Yang lab"
@@ -37,7 +37,7 @@ tag = "tags"
 
   [[params.navbar_hierarchy]]
     name = "YangDL Lab"
-    link = "https://yanglab.netlify.com/"
+    link = "https://yanglab.netlify.app/"
     position = 1
 
   [[params.slogan_columns]]

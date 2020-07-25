@@ -3,7 +3,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "http://www.laboy.cn/"
+baseurl = "/"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Dong-Lei Yang lab"
